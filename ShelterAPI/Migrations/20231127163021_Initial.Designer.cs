@@ -10,7 +10,7 @@ using ShelterAPI.Models;
 namespace ShelterAPI.Migrations
 {
     [DbContext(typeof(ShelterAPIContext))]
-    [Migration("20231121042434_Initial")]
+    [Migration("20231127163021_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
